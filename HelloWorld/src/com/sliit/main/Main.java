@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is my first project as SLIIT");
+		System.out.println("This is my first project as SLIIT,Only for the testing...!");
 	}
 
 }
